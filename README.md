@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I'm Souhaib LAANANI, this is my 42 stats:
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=slaanani)](https://github.com/mohouyizme/1337-readme)
 
 <!--
 **Imgox/imgox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
